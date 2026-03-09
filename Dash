@@ -1,0 +1,16 @@
+📁 data/
+  ├── 📁 raw/          (for raw data files)
+  └── 📁 processed/    (for processed/cleaned data)
+
+📁 sql/
+  ├── 01_cleaning.sql      (data cleaning scripts)
+  ├── 02_kpis.sql          (KPI calculation queries)
+  └── 03_segments.sql      (customer segmentation logic)
+
+📁 dashboards/
+  └── 📁 tableau_or_powerbi_screenshots/  (visualization assets)
+
+📁 executive_summary/
+  └── Exec_Summary_Bank_Retention.pdf (executive report)
+
+📄 README.md (project documentation)
